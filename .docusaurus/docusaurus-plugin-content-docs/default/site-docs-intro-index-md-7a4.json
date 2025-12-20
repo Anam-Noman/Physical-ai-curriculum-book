@@ -1,0 +1,23 @@
+{
+  "id": "intro/index",
+  "title": "Introduction to Physical AI & Humanoid Robotics",
+  "description": "Book Objectives",
+  "source": "@site/docs/intro/index.md",
+  "sourceDirName": "intro",
+  "slug": "/intro/",
+  "permalink": "/physical-ai-curriculum-book/docs/intro/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/intro/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "curriculumSidebar",
+  "next": {
+    "title": "Prerequisites",
+    "permalink": "/physical-ai-curriculum-book/docs/intro/prerequisites"
+  }
+}

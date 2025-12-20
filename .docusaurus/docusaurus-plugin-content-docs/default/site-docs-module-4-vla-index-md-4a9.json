@@ -1,0 +1,27 @@
+{
+  "id": "module-4-vla/index",
+  "title": "Module 4: Vision-Language-Action (VLA)",
+  "description": "Overview",
+  "source": "@site/docs/module-4-vla/index.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/",
+  "permalink": "/physical-ai-curriculum-book/docs/module-4-vla/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-4-vla/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Nav2 for Humanoid Robot Path Planning",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/nav2-planning"
+  },
+  "next": {
+    "title": "Integrating GPT Models into Robotic Systems",
+    "permalink": "/physical-ai-curriculum-book/docs/module-4-vla/week-13/gpt-integration"
+  }
+}

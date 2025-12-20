@@ -1,0 +1,27 @@
+{
+  "id": "module-1-ros2/physical-ai-concepts",
+  "title": "Key Physical AI Concepts",
+  "description": "Physical AI: Bridging Digital and Physical Worlds",
+  "source": "@site/docs/module-1-ros2/physical-ai-concepts.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/physical-ai-concepts",
+  "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/physical-ai-concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-1-ros2/physical-ai-concepts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Module 1 Summary and Assessment",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/summary"
+  },
+  "next": {
+    "title": "Foundations of Physical AI",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-1-2/foundations"
+  }
+}

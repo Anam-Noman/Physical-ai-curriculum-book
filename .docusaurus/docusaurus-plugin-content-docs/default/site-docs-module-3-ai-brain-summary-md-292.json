@@ -1,0 +1,27 @@
+{
+  "id": "module-3-ai-brain/summary",
+  "title": "Module 3 Summary and Assessment",
+  "description": "Summary",
+  "source": "@site/docs/module-3-ai-brain/summary.md",
+  "sourceDirName": "module-3-ai-brain",
+  "slug": "/module-3-ai-brain/summary",
+  "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/summary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-3-ai-brain/summary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Sim-to-Real Transfer Concepts and Techniques",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/sim-to-real"
+  },
+  "next": {
+    "title": "Humanoid Kinematics and Dynamics",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/humanoid-dynamics"
+  }
+}

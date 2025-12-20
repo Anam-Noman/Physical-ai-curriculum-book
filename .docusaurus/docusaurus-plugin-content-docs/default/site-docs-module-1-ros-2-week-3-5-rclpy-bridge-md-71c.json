@@ -1,0 +1,27 @@
+{
+  "id": "module-1-ros2/week-3-5/rclpy-bridge",
+  "title": "Python AI Agents to Robot Controllers using rclpy",
+  "description": "Introduction to rclpy",
+  "source": "@site/docs/module-1-ros2/week-3-5/rclpy-bridge.md",
+  "sourceDirName": "module-1-ros2/week-3-5",
+  "slug": "/module-1-ros2/week-3-5/rclpy-bridge",
+  "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/rclpy-bridge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-1-ros2/week-3-5/rclpy-bridge.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Nodes, Topics, Services, and Actions",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/nodes-topics"
+  },
+  "next": {
+    "title": "URDF for Humanoid Robot Structure",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/urdf-modeling"
+  }
+}

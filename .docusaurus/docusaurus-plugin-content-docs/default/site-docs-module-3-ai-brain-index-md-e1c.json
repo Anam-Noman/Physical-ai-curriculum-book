@@ -1,0 +1,27 @@
+{
+  "id": "module-3-ai-brain/index",
+  "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+  "description": "Overview",
+  "source": "@site/docs/module-3-ai-brain/index.md",
+  "sourceDirName": "module-3-ai-brain",
+  "slug": "/module-3-ai-brain/",
+  "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-3-ai-brain/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Unity for Visualization and Human-Robot Interaction",
+    "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/unity-visualization"
+  },
+  "next": {
+    "title": "Sim-to-Real Transfer Concepts and Techniques",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/sim-to-real"
+  }
+}

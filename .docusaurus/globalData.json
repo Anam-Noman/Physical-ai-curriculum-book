@@ -1,0 +1,208 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/physical-ai-curriculum-book/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/physical-ai-curriculum-book/docs",
+          "mainDocId": "intro/index",
+          "docs": [
+            {
+              "id": "intro/index",
+              "path": "/physical-ai-curriculum-book/docs/intro/",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "intro/prerequisites",
+              "path": "/physical-ai-curriculum-book/docs/intro/prerequisites",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "intro/setup",
+              "path": "/physical-ai-curriculum-book/docs/intro/setup",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-1-ros2/index",
+              "path": "/physical-ai-curriculum-book/docs/module-1-ros2/",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-1-ros2/physical-ai-concepts",
+              "path": "/physical-ai-curriculum-book/docs/module-1-ros2/physical-ai-concepts",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-1-ros2/summary",
+              "path": "/physical-ai-curriculum-book/docs/module-1-ros2/summary",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-1-ros2/week-1-2/embodied-intelligence",
+              "path": "/physical-ai-curriculum-book/docs/module-1-ros2/week-1-2/embodied-intelligence",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-1-ros2/week-1-2/foundations",
+              "path": "/physical-ai-curriculum-book/docs/module-1-ros2/week-1-2/foundations",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-1-ros2/week-3-5/architecture",
+              "path": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/architecture",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-1-ros2/week-3-5/nodes-topics",
+              "path": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/nodes-topics",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-1-ros2/week-3-5/rclpy-bridge",
+              "path": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/rclpy-bridge",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-1-ros2/week-3-5/urdf-modeling",
+              "path": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/urdf-modeling",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/digital-twin-concept",
+              "path": "/physical-ai-curriculum-book/docs/module-2-digital-twin/digital-twin-concept",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/index",
+              "path": "/physical-ai-curriculum-book/docs/module-2-digital-twin/",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/summary",
+              "path": "/physical-ai-curriculum-book/docs/module-2-digital-twin/summary",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/week-6-7/gazebo-setup",
+              "path": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/gazebo-setup",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/week-6-7/physics-simulation",
+              "path": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/physics-simulation",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/week-6-7/sensor-simulation",
+              "path": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/sensor-simulation",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/week-6-7/unity-visualization",
+              "path": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/unity-visualization",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/week-6-7/urdf-sdf",
+              "path": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/urdf-sdf",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-3-ai-brain/index",
+              "path": "/physical-ai-curriculum-book/docs/module-3-ai-brain/",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-3-ai-brain/sim-to-real",
+              "path": "/physical-ai-curriculum-book/docs/module-3-ai-brain/sim-to-real",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-3-ai-brain/summary",
+              "path": "/physical-ai-curriculum-book/docs/module-3-ai-brain/summary",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-3-ai-brain/week-11-12/hri-design",
+              "path": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/hri-design",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-3-ai-brain/week-11-12/humanoid-dynamics",
+              "path": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/humanoid-dynamics",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-3-ai-brain/week-11-12/locomotion-balance",
+              "path": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/locomotion-balance",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-3-ai-brain/week-11-12/manipulation-grasping",
+              "path": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/manipulation-grasping",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-3-ai-brain/week-8-10/isaac-platform",
+              "path": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/isaac-platform",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-3-ai-brain/week-8-10/nav2-planning",
+              "path": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/nav2-planning",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-3-ai-brain/week-8-10/perception-pipelines",
+              "path": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/perception-pipelines",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-3-ai-brain/week-8-10/synthetic-data",
+              "path": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/synthetic-data",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-3-ai-brain/week-8-10/vslam-localization",
+              "path": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/vslam-localization",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-4-vla/index",
+              "path": "/physical-ai-curriculum-book/docs/module-4-vla/",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "module-4-vla/week-13/gpt-integration",
+              "path": "/physical-ai-curriculum-book/docs/module-4-vla/week-13/gpt-integration",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "tutorials/basic-ros2-tutorial",
+              "path": "/physical-ai-curriculum-book/docs/tutorials/basic-ros2-tutorial",
+              "sidebar": "curriculumSidebar"
+            },
+            {
+              "id": "tutorials/simulation-tutorial",
+              "path": "/physical-ai-curriculum-book/docs/tutorials/simulation-tutorial",
+              "sidebar": "curriculumSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "curriculumSidebar": {
+              "link": {
+                "path": "/physical-ai-curriculum-book/docs/intro/",
+                "label": "Introduction to Physical AI & Humanoid Robotics"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

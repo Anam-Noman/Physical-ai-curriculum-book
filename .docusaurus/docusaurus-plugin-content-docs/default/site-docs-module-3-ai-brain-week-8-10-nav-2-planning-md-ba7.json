@@ -1,0 +1,27 @@
+{
+  "id": "module-3-ai-brain/week-8-10/nav2-planning",
+  "title": "Nav2 for Humanoid Robot Path Planning",
+  "description": "Introduction to Navigation in Physical AI",
+  "source": "@site/docs/module-3-ai-brain/week-8-10/nav2-planning.md",
+  "sourceDirName": "module-3-ai-brain/week-8-10",
+  "slug": "/module-3-ai-brain/week-8-10/nav2-planning",
+  "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/nav2-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-3-ai-brain/week-8-10/nav2-planning.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Visual SLAM (VSLAM) and Localization",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/vslam-localization"
+  },
+  "next": {
+    "title": "Module 4: Vision-Language-Action (VLA)",
+    "permalink": "/physical-ai-curriculum-book/docs/module-4-vla/"
+  }
+}

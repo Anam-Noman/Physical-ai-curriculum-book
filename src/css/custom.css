@@ -1,0 +1,98 @@
+/**
+ * Copyright (c) 2017-present, Facebook, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * Custom CSS for the Physical AI & Humanoid Robotics Curriculum Book
+ */
+
+/* You can override the default Docusaurus styling with your own styles here */
+
+/* Physical AI theme colors */
+:root {
+  --ifm-color-primary: #2563eb;
+  --ifm-color-primary-dark: #1d4ed8;
+  --ifm-color-primary-darker: #1a47c5;
+  --ifm-color-primary-darkest: #0f2e78;
+  --ifm-color-primary-light: #3b82f6;
+  --ifm-color-primary-lighter: #60a5fa;
+  --ifm-color-primary-lightest: #93c5fd;
+
+  /* Navbar background color - changing from default navy blue */
+  --ifm-navbar-background-color: #1a47c5;
+  --ifm-navbar-link-color: #ffffff;
+  --ifm-navbar-link-hover-color: #e5e7eb;
+}
+
+/* Specific navbar styling */
+.navbar {
+  background-color: var(--ifm-navbar-background-color);
+}
+
+.navbar__link {
+  color: var(--ifm-navbar-link-color);
+}
+
+.navbar__link:hover {
+  color: var(--ifm-navbar-link-hover-color);
+}
+
+/* Footer styling to match navbar */
+.footer {
+  background-color: var(--ifm-navbar-background-color);
+}
+
+.footer__title {
+  color: var(--ifm-navbar-link-color);
+}
+
+.footer__link-item {
+  color: var(--ifm-navbar-link-color);
+}
+
+.footer__link-item:hover {
+  color: var(--ifm-navbar-link-hover-color);
+}
+
+/* For dark mode compatibility */
+[data-theme='dark'] .footer,
+[data-theme='light'] .footer {
+  background-color: var(--ifm-navbar-background-color);
+}
+
+/* Code block styling for robotics/ROS code examples */
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+/* For dark mode */
+[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Special styling for robotics architecture diagrams */
+.robotics-architecture {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: var(--ifm-global-radius);
+  padding: var(--ifm-spacing-vertical) var(--ifm-spacing-horizontal);
+  margin: var(--ifm-spacing-vertical) 0;
+}
+
+/* Styling for code examples with ROS commands */
+.ros-command {
+  background-color: #f0f8ff;
+  border-left: 4px solid #2563eb;
+  padding: 12px;
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+}
+
+/* For dark mode */
+[data-theme='dark'] .ros-command {
+  background-color: #1e293b;
+}

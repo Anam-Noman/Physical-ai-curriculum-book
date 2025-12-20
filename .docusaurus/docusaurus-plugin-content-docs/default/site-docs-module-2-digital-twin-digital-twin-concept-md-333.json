@@ -1,0 +1,27 @@
+{
+  "id": "module-2-digital-twin/digital-twin-concept",
+  "title": "Digital Twin Concept Explanation",
+  "description": "Understanding Digital Twins in Physical AI",
+  "source": "@site/docs/module-2-digital-twin/digital-twin-concept.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/digital-twin-concept",
+  "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/digital-twin-concept",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-2-digital-twin/digital-twin-concept.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Module 2 Summary and Assessment",
+    "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/summary"
+  },
+  "next": {
+    "title": "Gazebo Simulation Environment Setup",
+    "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/gazebo-setup"
+  }
+}

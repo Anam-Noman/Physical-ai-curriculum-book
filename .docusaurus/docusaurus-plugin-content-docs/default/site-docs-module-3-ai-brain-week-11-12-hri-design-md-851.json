@@ -1,0 +1,27 @@
+{
+  "id": "module-3-ai-brain/week-11-12/hri-design",
+  "title": "Human-Robot Interaction Design",
+  "description": "Introduction to Human-Robot Interaction in Physical AI",
+  "source": "@site/docs/module-3-ai-brain/week-11-12/hri-design.md",
+  "sourceDirName": "module-3-ai-brain/week-11-12",
+  "slug": "/module-3-ai-brain/week-11-12/hri-design",
+  "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/hri-design",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-3-ai-brain/week-11-12/hri-design.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Manipulation and Grasping",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/manipulation-grasping"
+  },
+  "next": {
+    "title": "NVIDIA Isaac Platform Overview",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/isaac-platform"
+  }
+}

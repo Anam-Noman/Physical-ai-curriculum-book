@@ -1,0 +1,27 @@
+{
+  "id": "module-3-ai-brain/week-8-10/synthetic-data",
+  "title": "Photorealistic Simulation and Synthetic Data Generation",
+  "description": "Introduction to Synthetic Data in Physical AI",
+  "source": "@site/docs/module-3-ai-brain/week-8-10/synthetic-data.md",
+  "sourceDirName": "module-3-ai-brain/week-8-10",
+  "slug": "/module-3-ai-brain/week-8-10/synthetic-data",
+  "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/synthetic-data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-3-ai-brain/week-8-10/synthetic-data.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "NVIDIA Isaac Platform Overview",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/isaac-platform"
+  },
+  "next": {
+    "title": "AI-Powered Perception Pipelines",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/perception-pipelines"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "/physical-ai-curriculum-book/__docusaurus/debug-d99": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-curriculum-book-docusaurus-debugd-35-ee5"
+    }
+  },
+  "/physical-ai-curriculum-book/__docusaurus/debug/config-ab0": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-curriculum-book-docusaurus-debugd-35-ee5"
+    }
+  },
+  "/physical-ai-curriculum-book/__docusaurus/debug/content-7b4": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---physical-ai-curriculum-book-docusaurus-debugd-35-ee5"
+    },
+    "allContent": "allContent---physical-ai-curriculum-book-docusaurus-debug-content-246-7fc"
+  },
+  "/physical-ai-curriculum-book/__docusaurus/debug/globalData-692": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---physical-ai-curriculum-book-docusaurus-debugd-35-ee5"
+    }
+  },
+  "/physical-ai-curriculum-book/__docusaurus/debug/metadata-733": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---physical-ai-curriculum-book-docusaurus-debugd-35-ee5"
+    }
+  },
+  "/physical-ai-curriculum-book/__docusaurus/debug/registry-115": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---physical-ai-curriculum-book-docusaurus-debugd-35-ee5"
+    }
+  },
+  "/physical-ai-curriculum-book/__docusaurus/debug/routes-f05": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---physical-ai-curriculum-book-docusaurus-debugd-35-ee5"
+    }
+  },
+  "/physical-ai-curriculum-book/docs-e18": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---physical-ai-curriculum-book-docs-8-e-8-410"
+    }
+  },
+  "/physical-ai-curriculum-book/docs-f44": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---physical-ai-curriculum-book-docs-935-19a"
+  },
+  "/physical-ai-curriculum-book/docs-e61": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/physical-ai-curriculum-book/docs/intro/-61a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-intro-7-a-4-8de"
+  },
+  "/physical-ai-curriculum-book/docs/intro/prerequisites-a2c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-intro-prerequisites-823-392"
+  },
+  "/physical-ai-curriculum-book/docs/intro/setup-256": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-intro-setup-69-f-cf8"
+  },
+  "/physical-ai-curriculum-book/docs/module-1-ros2/-43f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-1-ros-2-4-dd-7e4"
+  },
+  "/physical-ai-curriculum-book/docs/module-1-ros2/physical-ai-concepts-456": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-1-ros-2-physical-ai-conceptsfd-4-a70"
+  },
+  "/physical-ai-curriculum-book/docs/module-1-ros2/summary-578": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-1-ros-2-summaryc-1-b-870"
+  },
+  "/physical-ai-curriculum-book/docs/module-1-ros2/week-1-2/embodied-intelligence-f17": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-1-ros-2-week-1-2-embodied-intelligence-628-4a5"
+  },
+  "/physical-ai-curriculum-book/docs/module-1-ros2/week-1-2/foundations-4d0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-1-ros-2-week-1-2-foundationsb-53-00a"
+  },
+  "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/architecture-f45": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-1-ros-2-week-3-5-architecture-219-175"
+  },
+  "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/nodes-topics-bc1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-1-ros-2-week-3-5-nodes-topics-134-c67"
+  },
+  "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/rclpy-bridge-cbb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-1-ros-2-week-3-5-rclpy-bridge-71-c-eba"
+  },
+  "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/urdf-modeling-760": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-1-ros-2-week-3-5-urdf-modeling-51-d-b51"
+  },
+  "/physical-ai-curriculum-book/docs/module-2-digital-twin/-04d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-2-digital-twin-811-88f"
+  },
+  "/physical-ai-curriculum-book/docs/module-2-digital-twin/digital-twin-concept-269": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-2-digital-twin-digital-twin-concept-333-6db"
+  },
+  "/physical-ai-curriculum-book/docs/module-2-digital-twin/summary-cf1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-2-digital-twin-summary-083-538"
+  },
+  "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/gazebo-setup-e5c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-2-digital-twin-week-6-7-gazebo-setup-0-a-3-5f9"
+  },
+  "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/physics-simulation-26b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-2-digital-twin-week-6-7-physics-simulation-537-bde"
+  },
+  "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/sensor-simulation-1eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-2-digital-twin-week-6-7-sensor-simulation-871-aab"
+  },
+  "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/unity-visualization-7bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-2-digital-twin-week-6-7-unity-visualization-630-705"
+  },
+  "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/urdf-sdf-24b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-2-digital-twin-week-6-7-urdf-sdf-04-c-ae3"
+  },
+  "/physical-ai-curriculum-book/docs/module-3-ai-brain/-8ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-3-ai-brain-e-1-c-689"
+  },
+  "/physical-ai-curriculum-book/docs/module-3-ai-brain/sim-to-real-54d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-3-ai-brain-sim-to-real-715-b7d"
+  },
+  "/physical-ai-curriculum-book/docs/module-3-ai-brain/summary-ee3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-3-ai-brain-summary-292-48f"
+  },
+  "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/hri-design-0ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-3-ai-brain-week-11-12-hri-design-851-f6b"
+  },
+  "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/humanoid-dynamics-ce9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-3-ai-brain-week-11-12-humanoid-dynamicsa-6-e-b35"
+  },
+  "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/locomotion-balance-770": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-3-ai-brain-week-11-12-locomotion-balance-921-2d8"
+  },
+  "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/manipulation-grasping-8c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-3-ai-brain-week-11-12-manipulation-grasping-4-f-6-930"
+  },
+  "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/isaac-platform-d1d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-3-ai-brain-week-8-10-isaac-platform-362-c8b"
+  },
+  "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/nav2-planning-c2f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-3-ai-brain-week-8-10-nav-2-planningba-7-109"
+  },
+  "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/perception-pipelines-1d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-3-ai-brain-week-8-10-perception-pipelines-6-c-1-d7c"
+  },
+  "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/synthetic-data-ad2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-3-ai-brain-week-8-10-synthetic-dataa-67-59d"
+  },
+  "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/vslam-localization-19c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-3-ai-brain-week-8-10-vslam-localizationab-6-73c"
+  },
+  "/physical-ai-curriculum-book/docs/module-4-vla/-e49": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-4-vla-4-a-9-f6a"
+  },
+  "/physical-ai-curriculum-book/docs/module-4-vla/week-13/gpt-integration-ef2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-module-4-vla-week-13-gpt-integration-30-a-814"
+  },
+  "/physical-ai-curriculum-book/docs/tutorials/basic-ros2-tutorial-e26": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-tutorials-basic-ros-2-tutorial-31-a-918"
+  },
+  "/physical-ai-curriculum-book/docs/tutorials/simulation-tutorial-76d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-curriculum-book-docs-tutorials-simulation-tutorial-7-d-9-7d6"
+  },
+  "/physical-ai-curriculum-book/-11b": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---physical-ai-curriculum-book-6-d-9-710"
+    },
+    "config": "config---physical-ai-curriculum-book-5-e-9-0b3"
+  }
+}

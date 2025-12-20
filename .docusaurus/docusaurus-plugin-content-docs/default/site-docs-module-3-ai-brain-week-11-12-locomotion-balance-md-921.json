@@ -1,0 +1,27 @@
+{
+  "id": "module-3-ai-brain/week-11-12/locomotion-balance",
+  "title": "Bipedal Locomotion and Balance",
+  "description": "Introduction to Humanoid Locomotion",
+  "source": "@site/docs/module-3-ai-brain/week-11-12/locomotion-balance.md",
+  "sourceDirName": "module-3-ai-brain/week-11-12",
+  "slug": "/module-3-ai-brain/week-11-12/locomotion-balance",
+  "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/locomotion-balance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-3-ai-brain/week-11-12/locomotion-balance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Humanoid Kinematics and Dynamics",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/humanoid-dynamics"
+  },
+  "next": {
+    "title": "Manipulation and Grasping",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/manipulation-grasping"
+  }
+}

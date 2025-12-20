@@ -1,0 +1,27 @@
+{
+  "id": "tutorials/basic-ros2-tutorial",
+  "title": "Basic ROS 2 Tutorial",
+  "description": "Introduction",
+  "source": "@site/docs/tutorials/basic-ros2-tutorial.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/basic-ros2-tutorial",
+  "permalink": "/physical-ai-curriculum-book/docs/tutorials/basic-ros2-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/tutorials/basic-ros2-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Integrating GPT Models into Robotic Systems",
+    "permalink": "/physical-ai-curriculum-book/docs/module-4-vla/week-13/gpt-integration"
+  },
+  "next": {
+    "title": "Simulation Tutorial: Creating Your First Robot Simulation",
+    "permalink": "/physical-ai-curriculum-book/docs/tutorials/simulation-tutorial"
+  }
+}

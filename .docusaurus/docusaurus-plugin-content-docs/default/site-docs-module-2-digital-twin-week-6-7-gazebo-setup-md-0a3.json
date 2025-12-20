@@ -1,0 +1,27 @@
+{
+  "id": "module-2-digital-twin/week-6-7/gazebo-setup",
+  "title": "Gazebo Simulation Environment Setup",
+  "description": "Introduction to Gazebo",
+  "source": "@site/docs/module-2-digital-twin/week-6-7/gazebo-setup.md",
+  "sourceDirName": "module-2-digital-twin/week-6-7",
+  "slug": "/module-2-digital-twin/week-6-7/gazebo-setup",
+  "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/gazebo-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-2-digital-twin/week-6-7/gazebo-setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Digital Twin Concept Explanation",
+    "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/digital-twin-concept"
+  },
+  "next": {
+    "title": "Robot Description Formats: URDF and SDF",
+    "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/urdf-sdf"
+  }
+}

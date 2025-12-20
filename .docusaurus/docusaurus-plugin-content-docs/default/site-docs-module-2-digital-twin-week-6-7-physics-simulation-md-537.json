@@ -1,0 +1,27 @@
+{
+  "id": "module-2-digital-twin/week-6-7/physics-simulation",
+  "title": "Physics Simulation: Gravity, Collisions, and Dynamics",
+  "description": "Introduction to Physics Simulation in Digital Twins",
+  "source": "@site/docs/module-2-digital-twin/week-6-7/physics-simulation.md",
+  "sourceDirName": "module-2-digital-twin/week-6-7",
+  "slug": "/module-2-digital-twin/week-6-7/physics-simulation",
+  "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/physics-simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-2-digital-twin/week-6-7/physics-simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Robot Description Formats: URDF and SDF",
+    "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/urdf-sdf"
+  },
+  "next": {
+    "title": "Sensor Simulation: LiDAR, Cameras, IMUs and More",
+    "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/sensor-simulation"
+  }
+}

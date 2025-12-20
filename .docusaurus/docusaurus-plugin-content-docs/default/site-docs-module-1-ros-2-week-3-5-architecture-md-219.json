@@ -1,0 +1,27 @@
+{
+  "id": "module-1-ros2/week-3-5/architecture",
+  "title": "ROS 2 Architecture",
+  "description": "Introduction to ROS 2",
+  "source": "@site/docs/module-1-ros2/week-3-5/architecture.md",
+  "sourceDirName": "module-1-ros2/week-3-5",
+  "slug": "/module-1-ros2/week-3-5/architecture",
+  "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-1-ros2/week-3-5/architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Embodied Intelligence Concepts",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-1-2/embodied-intelligence"
+  },
+  "next": {
+    "title": "Nodes, Topics, Services, and Actions",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/nodes-topics"
+  }
+}

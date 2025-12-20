@@ -1,0 +1,27 @@
+{
+  "id": "module-1-ros2/index",
+  "title": "Module 1: The Robotic Nervous System (ROS 2)",
+  "description": "Overview",
+  "source": "@site/docs/module-1-ros2/index.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/",
+  "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-1-ros2/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Environment Setup",
+    "permalink": "/physical-ai-curriculum-book/docs/intro/setup"
+  },
+  "next": {
+    "title": "Module 1 Summary and Assessment",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/summary"
+  }
+}

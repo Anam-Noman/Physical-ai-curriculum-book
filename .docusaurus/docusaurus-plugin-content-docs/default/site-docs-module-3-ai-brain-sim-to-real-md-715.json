@@ -1,0 +1,27 @@
+{
+  "id": "module-3-ai-brain/sim-to-real",
+  "title": "Sim-to-Real Transfer Concepts and Techniques",
+  "description": "Introduction to Sim-to-Real Transfer",
+  "source": "@site/docs/module-3-ai-brain/sim-to-real.md",
+  "sourceDirName": "module-3-ai-brain",
+  "slug": "/module-3-ai-brain/sim-to-real",
+  "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/sim-to-real",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-3-ai-brain/sim-to-real.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/"
+  },
+  "next": {
+    "title": "Module 3 Summary and Assessment",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/summary"
+  }
+}

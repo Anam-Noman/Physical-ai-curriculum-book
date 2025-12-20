@@ -1,0 +1,27 @@
+{
+  "id": "module-2-digital-twin/week-6-7/sensor-simulation",
+  "title": "Sensor Simulation: LiDAR, Cameras, IMUs and More",
+  "description": "Introduction to Sensor Simulation",
+  "source": "@site/docs/module-2-digital-twin/week-6-7/sensor-simulation.md",
+  "sourceDirName": "module-2-digital-twin/week-6-7",
+  "slug": "/module-2-digital-twin/week-6-7/sensor-simulation",
+  "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/sensor-simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-2-digital-twin/week-6-7/sensor-simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Physics Simulation: Gravity, Collisions, and Dynamics",
+    "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/physics-simulation"
+  },
+  "next": {
+    "title": "Unity for Visualization and Human-Robot Interaction",
+    "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/unity-visualization"
+  }
+}

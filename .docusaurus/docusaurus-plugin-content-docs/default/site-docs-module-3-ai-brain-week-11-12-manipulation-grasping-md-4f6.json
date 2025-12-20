@@ -1,0 +1,27 @@
+{
+  "id": "module-3-ai-brain/week-11-12/manipulation-grasping",
+  "title": "Manipulation and Grasping",
+  "description": "Introduction to Manipulation in Humanoid Robots",
+  "source": "@site/docs/module-3-ai-brain/week-11-12/manipulation-grasping.md",
+  "sourceDirName": "module-3-ai-brain/week-11-12",
+  "slug": "/module-3-ai-brain/week-11-12/manipulation-grasping",
+  "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/manipulation-grasping",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-3-ai-brain/week-11-12/manipulation-grasping.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Bipedal Locomotion and Balance",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/locomotion-balance"
+  },
+  "next": {
+    "title": "Human-Robot Interaction Design",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/hri-design"
+  }
+}

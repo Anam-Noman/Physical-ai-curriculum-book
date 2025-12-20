@@ -1,0 +1,27 @@
+{
+  "id": "module-1-ros2/summary",
+  "title": "Module 1 Summary and Assessment",
+  "description": "Summary of Key Concepts",
+  "source": "@site/docs/module-1-ros2/summary.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/summary",
+  "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/summary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-1-ros2/summary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Module 1: The Robotic Nervous System (ROS 2)",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/"
+  },
+  "next": {
+    "title": "Key Physical AI Concepts",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/physical-ai-concepts"
+  }
+}

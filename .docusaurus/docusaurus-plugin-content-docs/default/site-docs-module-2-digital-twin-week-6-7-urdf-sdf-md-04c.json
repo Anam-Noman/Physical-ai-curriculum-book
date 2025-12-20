@@ -1,0 +1,27 @@
+{
+  "id": "module-2-digital-twin/week-6-7/urdf-sdf",
+  "title": "Robot Description Formats: URDF and SDF",
+  "description": "Introduction",
+  "source": "@site/docs/module-2-digital-twin/week-6-7/urdf-sdf.md",
+  "sourceDirName": "module-2-digital-twin/week-6-7",
+  "slug": "/module-2-digital-twin/week-6-7/urdf-sdf",
+  "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/urdf-sdf",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-2-digital-twin/week-6-7/urdf-sdf.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Gazebo Simulation Environment Setup",
+    "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/gazebo-setup"
+  },
+  "next": {
+    "title": "Physics Simulation: Gravity, Collisions, and Dynamics",
+    "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/physics-simulation"
+  }
+}

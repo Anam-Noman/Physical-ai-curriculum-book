@@ -1,0 +1,27 @@
+{
+  "id": "module-1-ros2/week-1-2/embodied-intelligence",
+  "title": "Embodied Intelligence Concepts",
+  "description": "Understanding Embodied Intelligence",
+  "source": "@site/docs/module-1-ros2/week-1-2/embodied-intelligence.md",
+  "sourceDirName": "module-1-ros2/week-1-2",
+  "slug": "/module-1-ros2/week-1-2/embodied-intelligence",
+  "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-1-2/embodied-intelligence",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-1-ros2/week-1-2/embodied-intelligence.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Foundations of Physical AI",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-1-2/foundations"
+  },
+  "next": {
+    "title": "ROS 2 Architecture",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/architecture"
+  }
+}

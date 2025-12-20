@@ -1,0 +1,27 @@
+{
+  "id": "module-1-ros2/week-3-5/nodes-topics",
+  "title": "Nodes, Topics, Services, and Actions",
+  "description": "Understanding ROS 2 Communication Patterns",
+  "source": "@site/docs/module-1-ros2/week-3-5/nodes-topics.md",
+  "sourceDirName": "module-1-ros2/week-3-5",
+  "slug": "/module-1-ros2/week-3-5/nodes-topics",
+  "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/nodes-topics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-1-ros2/week-3-5/nodes-topics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "ROS 2 Architecture",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/architecture"
+  },
+  "next": {
+    "title": "Python AI Agents to Robot Controllers using rclpy",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/rclpy-bridge"
+  }
+}

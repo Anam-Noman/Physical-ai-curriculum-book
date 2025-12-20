@@ -1,0 +1,27 @@
+{
+  "id": "module-3-ai-brain/week-8-10/isaac-platform",
+  "title": "NVIDIA Isaac Platform Overview",
+  "description": "Introduction to NVIDIA Isaac",
+  "source": "@site/docs/module-3-ai-brain/week-8-10/isaac-platform.md",
+  "sourceDirName": "module-3-ai-brain/week-8-10",
+  "slug": "/module-3-ai-brain/week-8-10/isaac-platform",
+  "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/isaac-platform",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-3-ai-brain/week-8-10/isaac-platform.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Human-Robot Interaction Design",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/hri-design"
+  },
+  "next": {
+    "title": "Photorealistic Simulation and Synthetic Data Generation",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/synthetic-data"
+  }
+}

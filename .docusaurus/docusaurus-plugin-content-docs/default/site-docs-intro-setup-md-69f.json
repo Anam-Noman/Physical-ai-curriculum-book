@@ -1,0 +1,27 @@
+{
+  "id": "intro/setup",
+  "title": "Environment Setup",
+  "description": "This guide will help you set up your development environment for the Physical AI and Humanoid Robotics curriculum. We'll cover both basic setup for curriculum access and advanced setup for simulation and development.",
+  "source": "@site/docs/intro/setup.md",
+  "sourceDirName": "intro",
+  "slug": "/intro/setup",
+  "permalink": "/physical-ai-curriculum-book/docs/intro/setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/intro/setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Prerequisites",
+    "permalink": "/physical-ai-curriculum-book/docs/intro/prerequisites"
+  },
+  "next": {
+    "title": "Module 1: The Robotic Nervous System (ROS 2)",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/"
+  }
+}

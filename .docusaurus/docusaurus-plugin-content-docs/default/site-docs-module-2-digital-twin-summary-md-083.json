@@ -1,0 +1,27 @@
+{
+  "id": "module-2-digital-twin/summary",
+  "title": "Module 2 Summary and Assessment",
+  "description": "Summary of Key Concepts",
+  "source": "@site/docs/module-2-digital-twin/summary.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/summary",
+  "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/summary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-2-digital-twin/summary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+    "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/"
+  },
+  "next": {
+    "title": "Digital Twin Concept Explanation",
+    "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/digital-twin-concept"
+  }
+}

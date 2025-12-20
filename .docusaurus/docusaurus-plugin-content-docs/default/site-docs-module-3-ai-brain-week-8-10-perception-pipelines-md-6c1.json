@@ -1,0 +1,27 @@
+{
+  "id": "module-3-ai-brain/week-8-10/perception-pipelines",
+  "title": "AI-Powered Perception Pipelines",
+  "description": "Introduction to Robotic Perception",
+  "source": "@site/docs/module-3-ai-brain/week-8-10/perception-pipelines.md",
+  "sourceDirName": "module-3-ai-brain/week-8-10",
+  "slug": "/module-3-ai-brain/week-8-10/perception-pipelines",
+  "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/perception-pipelines",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-3-ai-brain/week-8-10/perception-pipelines.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Photorealistic Simulation and Synthetic Data Generation",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/synthetic-data"
+  },
+  "next": {
+    "title": "Visual SLAM (VSLAM) and Localization",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/vslam-localization"
+  }
+}

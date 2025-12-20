@@ -1,0 +1,27 @@
+{
+  "id": "module-1-ros2/week-1-2/foundations",
+  "title": "Foundations of Physical AI",
+  "description": "Introduction to Physical AI",
+  "source": "@site/docs/module-1-ros2/week-1-2/foundations.md",
+  "sourceDirName": "module-1-ros2/week-1-2",
+  "slug": "/module-1-ros2/week-1-2/foundations",
+  "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-1-2/foundations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-1-ros2/week-1-2/foundations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Key Physical AI Concepts",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/physical-ai-concepts"
+  },
+  "next": {
+    "title": "Embodied Intelligence Concepts",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-1-2/embodied-intelligence"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "module-1-ros2/week-3-5/urdf-modeling",
+  "title": "URDF for Humanoid Robot Structure",
+  "description": "Understanding URDF",
+  "source": "@site/docs/module-1-ros2/week-3-5/urdf-modeling.md",
+  "sourceDirName": "module-1-ros2/week-3-5",
+  "slug": "/module-1-ros2/week-3-5/urdf-modeling",
+  "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/urdf-modeling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-1-ros2/week-3-5/urdf-modeling.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Python AI Agents to Robot Controllers using rclpy",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/rclpy-bridge"
+  },
+  "next": {
+    "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+    "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/"
+  }
+}

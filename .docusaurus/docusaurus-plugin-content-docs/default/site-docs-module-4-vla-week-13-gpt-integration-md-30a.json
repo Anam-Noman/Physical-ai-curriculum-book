@@ -1,0 +1,27 @@
+{
+  "id": "module-4-vla/week-13/gpt-integration",
+  "title": "Integrating GPT Models into Robotic Systems",
+  "description": "Introduction to GPT in Robotics",
+  "source": "@site/docs/module-4-vla/week-13/gpt-integration.md",
+  "sourceDirName": "module-4-vla/week-13",
+  "slug": "/module-4-vla/week-13/gpt-integration",
+  "permalink": "/physical-ai-curriculum-book/docs/module-4-vla/week-13/gpt-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-4-vla/week-13/gpt-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Module 4: Vision-Language-Action (VLA)",
+    "permalink": "/physical-ai-curriculum-book/docs/module-4-vla/"
+  },
+  "next": {
+    "title": "Basic ROS 2 Tutorial",
+    "permalink": "/physical-ai-curriculum-book/docs/tutorials/basic-ros2-tutorial"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "module-3-ai-brain/week-11-12/humanoid-dynamics",
+  "title": "Humanoid Kinematics and Dynamics",
+  "description": "Introduction to Humanoid Robotics",
+  "source": "@site/docs/module-3-ai-brain/week-11-12/humanoid-dynamics.md",
+  "sourceDirName": "module-3-ai-brain/week-11-12",
+  "slug": "/module-3-ai-brain/week-11-12/humanoid-dynamics",
+  "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/humanoid-dynamics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-3-ai-brain/week-11-12/humanoid-dynamics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Module 3 Summary and Assessment",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/summary"
+  },
+  "next": {
+    "title": "Bipedal Locomotion and Balance",
+    "permalink": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/locomotion-balance"
+  }
+}

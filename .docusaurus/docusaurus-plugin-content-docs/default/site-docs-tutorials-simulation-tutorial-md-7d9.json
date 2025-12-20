@@ -1,0 +1,23 @@
+{
+  "id": "tutorials/simulation-tutorial",
+  "title": "Simulation Tutorial: Creating Your First Robot Simulation",
+  "description": "Introduction",
+  "source": "@site/docs/tutorials/simulation-tutorial.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/simulation-tutorial",
+  "permalink": "/physical-ai-curriculum-book/docs/tutorials/simulation-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/tutorials/simulation-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Basic ROS 2 Tutorial",
+    "permalink": "/physical-ai-curriculum-book/docs/tutorials/basic-ros2-tutorial"
+  }
+}

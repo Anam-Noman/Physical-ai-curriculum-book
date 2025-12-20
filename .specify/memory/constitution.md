@@ -1,55 +1,61 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!-- Sync Impact Report
+Version Change: N/A -> v1.0.0
+Modified Principles: None (New constitution)
+Added Sections: All sections added as new
+Removed Sections: None
+Templates Requiring Updates:
+- ✅ .specify/templates/plan-template.md
+- ✅ .specify/templates/spec-template.md
+- ✅ .specify/templates/tasks-template.md
+- ✅ .qwen/commands/*.toml
+Follow-up TODOs: None
+-->
+
+# AI/Spec-Driven Book Creation and Deployment Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### Accuracy
+All technical claims must be correct and verified against reliable sources
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### Clarity
+Content must be understandable to a technical audience with basic CS knowledge
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### Spec-driven rigor
+Follow Spec-Kit Plus structure strictly for consistency and traceability
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### Reproducibility
+Instructions, configs, and examples must be repeatable by readers
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### Transparency
+Clearly distinguish facts, assumptions, and examples
 
-### [PRINCIPLE_6_NAME]
+### Code Quality
+All code examples must be syntactically correct and runnable
 
+## Key Standards
 
-[PRINCIPLE__DESCRIPTION]
+- All factual or technical claims must be supported by sources or official documentation
+- Citation format: APA style (inline where applicable, references section at end)
+- Source types: Official docs, peer-reviewed articles, and reputable technical blogs
+- Plagiarism tolerance: 0% (all content must be original or properly cited)
+- Code quality: All code examples must be syntactically correct and runnable
+- Documentation style: Docusaurus-compatible MD/MDX only
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
+## Constraints and Success Criteria
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
-
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
-
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+- Structure must follow Spec-Kit Plus sections and conventions
+- Each chapter must have a clear objective and summary
+- Content must build incrementally from fundamentals to advanced topics
+- Deployment instructions must work on GitHub Pages without modification
+- Book builds successfully with Docusaurus (no build or MDX errors)
+- GitHub Pages deployment works correctly
+- All claims are traceable and verifiable
+- Code examples run without errors
+- Content is clear, consistent, and technically accurate
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+All contributions must adhere to these principles. Deviations require explicit approval from core maintainers. Any changes to the book content must undergo review to ensure compliance with these principles before merging into the main branch. The constitution can only be amended through a formal proposal and approval process.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: v1.0.0 | **Ratified**: 2025-01-08 | **Last Amended**: 2025-01-08

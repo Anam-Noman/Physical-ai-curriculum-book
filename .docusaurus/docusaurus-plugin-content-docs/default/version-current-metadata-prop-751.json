@@ -1,0 +1,550 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "curriculumSidebar": [
+      {
+        "type": "category",
+        "label": "Introduction to Physical AI & Humanoid Robotics",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Prerequisites",
+            "href": "/physical-ai-curriculum-book/docs/intro/prerequisites",
+            "docId": "intro/prerequisites",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Environment Setup",
+            "href": "/physical-ai-curriculum-book/docs/intro/setup",
+            "docId": "intro/setup",
+            "unlisted": false
+          }
+        ],
+        "href": "/physical-ai-curriculum-book/docs/intro/"
+      },
+      {
+        "type": "category",
+        "label": "Module 1: The Robotic Nervous System (ROS 2)",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 1 Summary and Assessment",
+            "href": "/physical-ai-curriculum-book/docs/module-1-ros2/summary",
+            "docId": "module-1-ros2/summary",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Key Physical AI Concepts",
+            "href": "/physical-ai-curriculum-book/docs/module-1-ros2/physical-ai-concepts",
+            "docId": "module-1-ros2/physical-ai-concepts",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "week-1-2",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Foundations of Physical AI",
+                "href": "/physical-ai-curriculum-book/docs/module-1-ros2/week-1-2/foundations",
+                "docId": "module-1-ros2/week-1-2/foundations",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Embodied Intelligence Concepts",
+                "href": "/physical-ai-curriculum-book/docs/module-1-ros2/week-1-2/embodied-intelligence",
+                "docId": "module-1-ros2/week-1-2/embodied-intelligence",
+                "unlisted": false
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "week-3-5",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "ROS 2 Architecture",
+                "href": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/architecture",
+                "docId": "module-1-ros2/week-3-5/architecture",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Nodes, Topics, Services, and Actions",
+                "href": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/nodes-topics",
+                "docId": "module-1-ros2/week-3-5/nodes-topics",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Python AI Agents to Robot Controllers using rclpy",
+                "href": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/rclpy-bridge",
+                "docId": "module-1-ros2/week-3-5/rclpy-bridge",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "URDF for Humanoid Robot Structure",
+                "href": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/urdf-modeling",
+                "docId": "module-1-ros2/week-3-5/urdf-modeling",
+                "unlisted": false
+              }
+            ]
+          }
+        ],
+        "href": "/physical-ai-curriculum-book/docs/module-1-ros2/"
+      },
+      {
+        "type": "category",
+        "label": "Module 2: The Digital Twin (Gazebo & Unity)",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 2 Summary and Assessment",
+            "href": "/physical-ai-curriculum-book/docs/module-2-digital-twin/summary",
+            "docId": "module-2-digital-twin/summary",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Digital Twin Concept Explanation",
+            "href": "/physical-ai-curriculum-book/docs/module-2-digital-twin/digital-twin-concept",
+            "docId": "module-2-digital-twin/digital-twin-concept",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "week-6-7",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Gazebo Simulation Environment Setup",
+                "href": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/gazebo-setup",
+                "docId": "module-2-digital-twin/week-6-7/gazebo-setup",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Robot Description Formats: URDF and SDF",
+                "href": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/urdf-sdf",
+                "docId": "module-2-digital-twin/week-6-7/urdf-sdf",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Physics Simulation: Gravity, Collisions, and Dynamics",
+                "href": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/physics-simulation",
+                "docId": "module-2-digital-twin/week-6-7/physics-simulation",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Sensor Simulation: LiDAR, Cameras, IMUs and More",
+                "href": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/sensor-simulation",
+                "docId": "module-2-digital-twin/week-6-7/sensor-simulation",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Unity for Visualization and Human-Robot Interaction",
+                "href": "/physical-ai-curriculum-book/docs/module-2-digital-twin/week-6-7/unity-visualization",
+                "docId": "module-2-digital-twin/week-6-7/unity-visualization",
+                "unlisted": false
+              }
+            ]
+          }
+        ],
+        "href": "/physical-ai-curriculum-book/docs/module-2-digital-twin/"
+      },
+      {
+        "type": "category",
+        "label": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Sim-to-Real Transfer Concepts and Techniques",
+            "href": "/physical-ai-curriculum-book/docs/module-3-ai-brain/sim-to-real",
+            "docId": "module-3-ai-brain/sim-to-real",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Module 3 Summary and Assessment",
+            "href": "/physical-ai-curriculum-book/docs/module-3-ai-brain/summary",
+            "docId": "module-3-ai-brain/summary",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "week-11-12",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Humanoid Kinematics and Dynamics",
+                "href": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/humanoid-dynamics",
+                "docId": "module-3-ai-brain/week-11-12/humanoid-dynamics",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Bipedal Locomotion and Balance",
+                "href": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/locomotion-balance",
+                "docId": "module-3-ai-brain/week-11-12/locomotion-balance",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Manipulation and Grasping",
+                "href": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/manipulation-grasping",
+                "docId": "module-3-ai-brain/week-11-12/manipulation-grasping",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Human-Robot Interaction Design",
+                "href": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-11-12/hri-design",
+                "docId": "module-3-ai-brain/week-11-12/hri-design",
+                "unlisted": false
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "week-8-10",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "NVIDIA Isaac Platform Overview",
+                "href": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/isaac-platform",
+                "docId": "module-3-ai-brain/week-8-10/isaac-platform",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Photorealistic Simulation and Synthetic Data Generation",
+                "href": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/synthetic-data",
+                "docId": "module-3-ai-brain/week-8-10/synthetic-data",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "AI-Powered Perception Pipelines",
+                "href": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/perception-pipelines",
+                "docId": "module-3-ai-brain/week-8-10/perception-pipelines",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Visual SLAM (VSLAM) and Localization",
+                "href": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/vslam-localization",
+                "docId": "module-3-ai-brain/week-8-10/vslam-localization",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Nav2 for Humanoid Robot Path Planning",
+                "href": "/physical-ai-curriculum-book/docs/module-3-ai-brain/week-8-10/nav2-planning",
+                "docId": "module-3-ai-brain/week-8-10/nav2-planning",
+                "unlisted": false
+              }
+            ]
+          }
+        ],
+        "href": "/physical-ai-curriculum-book/docs/module-3-ai-brain/"
+      },
+      {
+        "type": "category",
+        "label": "Module 4: Vision-Language-Action (VLA)",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "week-13",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Integrating GPT Models into Robotic Systems",
+                "href": "/physical-ai-curriculum-book/docs/module-4-vla/week-13/gpt-integration",
+                "docId": "module-4-vla/week-13/gpt-integration",
+                "unlisted": false
+              }
+            ]
+          }
+        ],
+        "href": "/physical-ai-curriculum-book/docs/module-4-vla/"
+      },
+      {
+        "type": "category",
+        "label": "tutorials",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Basic ROS 2 Tutorial",
+            "href": "/physical-ai-curriculum-book/docs/tutorials/basic-ros2-tutorial",
+            "docId": "tutorials/basic-ros2-tutorial",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Simulation Tutorial: Creating Your First Robot Simulation",
+            "href": "/physical-ai-curriculum-book/docs/tutorials/simulation-tutorial",
+            "docId": "tutorials/simulation-tutorial",
+            "unlisted": false
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "intro/index": {
+      "id": "intro/index",
+      "title": "Introduction to Physical AI & Humanoid Robotics",
+      "description": "Book Objectives",
+      "sidebar": "curriculumSidebar"
+    },
+    "intro/prerequisites": {
+      "id": "intro/prerequisites",
+      "title": "Prerequisites",
+      "description": "To successfully complete this Physical AI and Humanoid Robotics curriculum, you'll need to prepare your development environment and ensure you have the necessary background knowledge.",
+      "sidebar": "curriculumSidebar"
+    },
+    "intro/setup": {
+      "id": "intro/setup",
+      "title": "Environment Setup",
+      "description": "This guide will help you set up your development environment for the Physical AI and Humanoid Robotics curriculum. We'll cover both basic setup for curriculum access and advanced setup for simulation and development.",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-1-ros2/index": {
+      "id": "module-1-ros2/index",
+      "title": "Module 1: The Robotic Nervous System (ROS 2)",
+      "description": "Overview",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-1-ros2/physical-ai-concepts": {
+      "id": "module-1-ros2/physical-ai-concepts",
+      "title": "Key Physical AI Concepts",
+      "description": "Physical AI: Bridging Digital and Physical Worlds",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-1-ros2/summary": {
+      "id": "module-1-ros2/summary",
+      "title": "Module 1 Summary and Assessment",
+      "description": "Summary of Key Concepts",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-1-ros2/week-1-2/embodied-intelligence": {
+      "id": "module-1-ros2/week-1-2/embodied-intelligence",
+      "title": "Embodied Intelligence Concepts",
+      "description": "Understanding Embodied Intelligence",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-1-ros2/week-1-2/foundations": {
+      "id": "module-1-ros2/week-1-2/foundations",
+      "title": "Foundations of Physical AI",
+      "description": "Introduction to Physical AI",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-1-ros2/week-3-5/architecture": {
+      "id": "module-1-ros2/week-3-5/architecture",
+      "title": "ROS 2 Architecture",
+      "description": "Introduction to ROS 2",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-1-ros2/week-3-5/nodes-topics": {
+      "id": "module-1-ros2/week-3-5/nodes-topics",
+      "title": "Nodes, Topics, Services, and Actions",
+      "description": "Understanding ROS 2 Communication Patterns",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-1-ros2/week-3-5/rclpy-bridge": {
+      "id": "module-1-ros2/week-3-5/rclpy-bridge",
+      "title": "Python AI Agents to Robot Controllers using rclpy",
+      "description": "Introduction to rclpy",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-1-ros2/week-3-5/urdf-modeling": {
+      "id": "module-1-ros2/week-3-5/urdf-modeling",
+      "title": "URDF for Humanoid Robot Structure",
+      "description": "Understanding URDF",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-2-digital-twin/digital-twin-concept": {
+      "id": "module-2-digital-twin/digital-twin-concept",
+      "title": "Digital Twin Concept Explanation",
+      "description": "Understanding Digital Twins in Physical AI",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-2-digital-twin/index": {
+      "id": "module-2-digital-twin/index",
+      "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+      "description": "Overview",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-2-digital-twin/summary": {
+      "id": "module-2-digital-twin/summary",
+      "title": "Module 2 Summary and Assessment",
+      "description": "Summary of Key Concepts",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-2-digital-twin/week-6-7/gazebo-setup": {
+      "id": "module-2-digital-twin/week-6-7/gazebo-setup",
+      "title": "Gazebo Simulation Environment Setup",
+      "description": "Introduction to Gazebo",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-2-digital-twin/week-6-7/physics-simulation": {
+      "id": "module-2-digital-twin/week-6-7/physics-simulation",
+      "title": "Physics Simulation: Gravity, Collisions, and Dynamics",
+      "description": "Introduction to Physics Simulation in Digital Twins",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-2-digital-twin/week-6-7/sensor-simulation": {
+      "id": "module-2-digital-twin/week-6-7/sensor-simulation",
+      "title": "Sensor Simulation: LiDAR, Cameras, IMUs and More",
+      "description": "Introduction to Sensor Simulation",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-2-digital-twin/week-6-7/unity-visualization": {
+      "id": "module-2-digital-twin/week-6-7/unity-visualization",
+      "title": "Unity for Visualization and Human-Robot Interaction",
+      "description": "Introduction to Unity in Physical AI",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-2-digital-twin/week-6-7/urdf-sdf": {
+      "id": "module-2-digital-twin/week-6-7/urdf-sdf",
+      "title": "Robot Description Formats: URDF and SDF",
+      "description": "Introduction",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-3-ai-brain/index": {
+      "id": "module-3-ai-brain/index",
+      "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+      "description": "Overview",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-3-ai-brain/sim-to-real": {
+      "id": "module-3-ai-brain/sim-to-real",
+      "title": "Sim-to-Real Transfer Concepts and Techniques",
+      "description": "Introduction to Sim-to-Real Transfer",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-3-ai-brain/summary": {
+      "id": "module-3-ai-brain/summary",
+      "title": "Module 3 Summary and Assessment",
+      "description": "Summary",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-3-ai-brain/week-11-12/hri-design": {
+      "id": "module-3-ai-brain/week-11-12/hri-design",
+      "title": "Human-Robot Interaction Design",
+      "description": "Introduction to Human-Robot Interaction in Physical AI",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-3-ai-brain/week-11-12/humanoid-dynamics": {
+      "id": "module-3-ai-brain/week-11-12/humanoid-dynamics",
+      "title": "Humanoid Kinematics and Dynamics",
+      "description": "Introduction to Humanoid Robotics",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-3-ai-brain/week-11-12/locomotion-balance": {
+      "id": "module-3-ai-brain/week-11-12/locomotion-balance",
+      "title": "Bipedal Locomotion and Balance",
+      "description": "Introduction to Humanoid Locomotion",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-3-ai-brain/week-11-12/manipulation-grasping": {
+      "id": "module-3-ai-brain/week-11-12/manipulation-grasping",
+      "title": "Manipulation and Grasping",
+      "description": "Introduction to Manipulation in Humanoid Robots",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-3-ai-brain/week-8-10/isaac-platform": {
+      "id": "module-3-ai-brain/week-8-10/isaac-platform",
+      "title": "NVIDIA Isaac Platform Overview",
+      "description": "Introduction to NVIDIA Isaac",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-3-ai-brain/week-8-10/nav2-planning": {
+      "id": "module-3-ai-brain/week-8-10/nav2-planning",
+      "title": "Nav2 for Humanoid Robot Path Planning",
+      "description": "Introduction to Navigation in Physical AI",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-3-ai-brain/week-8-10/perception-pipelines": {
+      "id": "module-3-ai-brain/week-8-10/perception-pipelines",
+      "title": "AI-Powered Perception Pipelines",
+      "description": "Introduction to Robotic Perception",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-3-ai-brain/week-8-10/synthetic-data": {
+      "id": "module-3-ai-brain/week-8-10/synthetic-data",
+      "title": "Photorealistic Simulation and Synthetic Data Generation",
+      "description": "Introduction to Synthetic Data in Physical AI",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-3-ai-brain/week-8-10/vslam-localization": {
+      "id": "module-3-ai-brain/week-8-10/vslam-localization",
+      "title": "Visual SLAM (VSLAM) and Localization",
+      "description": "Introduction to SLAM and Localization",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-4-vla/index": {
+      "id": "module-4-vla/index",
+      "title": "Module 4: Vision-Language-Action (VLA)",
+      "description": "Overview",
+      "sidebar": "curriculumSidebar"
+    },
+    "module-4-vla/week-13/gpt-integration": {
+      "id": "module-4-vla/week-13/gpt-integration",
+      "title": "Integrating GPT Models into Robotic Systems",
+      "description": "Introduction to GPT in Robotics",
+      "sidebar": "curriculumSidebar"
+    },
+    "tutorials/basic-ros2-tutorial": {
+      "id": "tutorials/basic-ros2-tutorial",
+      "title": "Basic ROS 2 Tutorial",
+      "description": "Introduction",
+      "sidebar": "curriculumSidebar"
+    },
+    "tutorials/simulation-tutorial": {
+      "id": "tutorials/simulation-tutorial",
+      "title": "Simulation Tutorial: Creating Your First Robot Simulation",
+      "description": "Introduction",
+      "sidebar": "curriculumSidebar"
+    }
+  }
+}

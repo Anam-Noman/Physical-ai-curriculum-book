@@ -1,0 +1,27 @@
+{
+  "id": "intro/prerequisites",
+  "title": "Prerequisites",
+  "description": "To successfully complete this Physical AI and Humanoid Robotics curriculum, you'll need to prepare your development environment and ensure you have the necessary background knowledge.",
+  "source": "@site/docs/intro/prerequisites.md",
+  "sourceDirName": "intro",
+  "slug": "/intro/prerequisites",
+  "permalink": "/physical-ai-curriculum-book/docs/intro/prerequisites",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/intro/prerequisites.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Introduction to Physical AI & Humanoid Robotics",
+    "permalink": "/physical-ai-curriculum-book/docs/intro/"
+  },
+  "next": {
+    "title": "Environment Setup",
+    "permalink": "/physical-ai-curriculum-book/docs/intro/setup"
+  }
+}

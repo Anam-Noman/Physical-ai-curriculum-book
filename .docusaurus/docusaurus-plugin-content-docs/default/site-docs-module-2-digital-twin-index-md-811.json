@@ -1,0 +1,27 @@
+{
+  "id": "module-2-digital-twin/index",
+  "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+  "description": "Overview",
+  "source": "@site/docs/module-2-digital-twin/index.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/",
+  "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/docs/module-2-digital-twin/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "URDF for Humanoid Robot Structure",
+    "permalink": "/physical-ai-curriculum-book/docs/module-1-ros2/week-3-5/urdf-modeling"
+  },
+  "next": {
+    "title": "Module 2 Summary and Assessment",
+    "permalink": "/physical-ai-curriculum-book/docs/module-2-digital-twin/summary"
+  }
+}
