@@ -9,21 +9,18 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-username.github.io',
+  url: 'https://Anam-Noman.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it's typically '/<projectName>/'
-  baseUrl: '/physical-ai-curriculum-book',
+  baseUrl: '/physical-ai-curriculum-book/',
 
   // GitHub pages deployment config.
-  organizationName: 'your-organization', // Usually your GitHub org/user name
-  projectName: 'physical-ai-curriculum-book', // Usually your repo name
+  organizationName: 'Anam-Noman', // Your GitHub username
+  projectName: 'physical-ai-curriculum-book', // Your repo name
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -36,8 +33,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/',
         },
@@ -52,7 +47,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Physical AI & Humanoid Robotic Book',
