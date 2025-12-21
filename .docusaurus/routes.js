@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/physical-ai-curriculum-book/__docusaurus/debug',
-    component: ComponentCreator('/physical-ai-curriculum-book/__docusaurus/debug', 'd99'),
-    exact: true
-  },
-  {
-    path: '/physical-ai-curriculum-book/__docusaurus/debug/config',
-    component: ComponentCreator('/physical-ai-curriculum-book/__docusaurus/debug/config', 'ab0'),
-    exact: true
-  },
-  {
-    path: '/physical-ai-curriculum-book/__docusaurus/debug/content',
-    component: ComponentCreator('/physical-ai-curriculum-book/__docusaurus/debug/content', '7b4'),
-    exact: true
-  },
-  {
-    path: '/physical-ai-curriculum-book/__docusaurus/debug/globalData',
-    component: ComponentCreator('/physical-ai-curriculum-book/__docusaurus/debug/globalData', '692'),
-    exact: true
-  },
-  {
-    path: '/physical-ai-curriculum-book/__docusaurus/debug/metadata',
-    component: ComponentCreator('/physical-ai-curriculum-book/__docusaurus/debug/metadata', '733'),
-    exact: true
-  },
-  {
-    path: '/physical-ai-curriculum-book/__docusaurus/debug/registry',
-    component: ComponentCreator('/physical-ai-curriculum-book/__docusaurus/debug/registry', '115'),
-    exact: true
-  },
-  {
-    path: '/physical-ai-curriculum-book/__docusaurus/debug/routes',
-    component: ComponentCreator('/physical-ai-curriculum-book/__docusaurus/debug/routes', 'f05'),
-    exact: true
-  },
-  {
     path: '/physical-ai-curriculum-book/docs',
     component: ComponentCreator('/physical-ai-curriculum-book/docs', 'e18'),
     routes: [

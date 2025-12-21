@@ -1,0 +1,597 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "13414457": [
+      710
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "36215658": [
+      9
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "04ce34ee": [
+      948
+    ],
+    "08370c8c": [
+      637
+    ],
+    "0a3ff295": [
+      915
+    ],
+    "2194de37": [
+      240
+    ],
+    "292e1fa2": [
+      247
+    ],
+    "30afe25b": [
+      839
+    ],
+    "31a581be": [
+      743
+    ],
+    "33367f8d": [
+      877
+    ],
+    "4a90598f": [
+      601
+    ],
+    "4dd5b0c3": [
+      226
+    ],
+    "4f65d5a0": [
+      396
+    ],
+    "51d83523": [
+      432
+    ],
+    "5375958e": [
+      588
+    ],
+    "5e95c892": [
+      647
+    ],
+    "62865c5b": [
+      404
+    ],
+    "63093e84": [
+      124
+    ],
+    "69f79331": [
+      929
+    ],
+    "6c13f043": [
+      515
+    ],
+    "6d97f8eb": [
+      870
+    ],
+    "7155f7ae": [
+      746
+    ],
+    "71cc5815": [
+      632
+    ],
+    "7a4fffdf": [
+      423
+    ],
+    "7d90580d": [
+      362
+    ],
+    "8113467f": [
+      131
+    ],
+    "8230ebc7": [
+      983
+    ],
+    "8511894a": [
+      960
+    ],
+    "8714bc68": [
+      188
+    ],
+    "8e8cc767": [
+      702
+    ],
+    "921d32da": [
+      379
+    ],
+    "935f2afb": [
+      581
+    ],
+    "a67bf3e8": [
+      651
+    ],
+    "a6e557de": [
+      77
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "ab65b7ae": [
+      578
+    ],
+    "b5347ed2": [
+      243
+    ],
+    "ba7b405c": [
+      363
+    ],
+    "c1bf7001": [
+      191
+    ],
+    "c4f5d8e4": [
+      869,
+      634
+    ],
+    "e1cc05d4": [
+      374
+    ],
+    "fd49a5c2": [
+      977
+    ],
+    "styles": [
+      48,
+      354,
+      401,
+      634,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "9": {
+      "js": [
+        {
+          "file": "assets/js/36215658.a38ea6f5.js",
+          "hash": "97a3a0c5342dc1fc",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/36215658.a38ea6f5.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.a5cabcd8.js",
+          "hash": "3380c25146a8da46",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/a94703ab.a5cabcd8.js"
+        }
+      ]
+    },
+    "77": {
+      "js": [
+        {
+          "file": "assets/js/a6e557de.39eaf1c6.js",
+          "hash": "351463537d72ae7e",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/a6e557de.39eaf1c6.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.435d75b6.js",
+          "hash": "5e6c2506276a614b",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/a7bd4aaa.435d75b6.js"
+        }
+      ]
+    },
+    "124": {
+      "js": [
+        {
+          "file": "assets/js/63093e84.3e989a93.js",
+          "hash": "7347b3d4adeeede2",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/63093e84.3e989a93.js"
+        }
+      ]
+    },
+    "131": {
+      "js": [
+        {
+          "file": "assets/js/8113467f.6a0477c4.js",
+          "hash": "50fd4aca78dcf05c",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/8113467f.6a0477c4.js"
+        }
+      ]
+    },
+    "188": {
+      "js": [
+        {
+          "file": "assets/js/8714bc68.2119a2b8.js",
+          "hash": "900314a8826be2f1",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/8714bc68.2119a2b8.js"
+        }
+      ]
+    },
+    "191": {
+      "js": [
+        {
+          "file": "assets/js/c1bf7001.9639387c.js",
+          "hash": "d9ef8b4931e7ad24",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/c1bf7001.9639387c.js"
+        }
+      ]
+    },
+    "226": {
+      "js": [
+        {
+          "file": "assets/js/4dd5b0c3.ca61bbd7.js",
+          "hash": "fc8383eca2c97470",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/4dd5b0c3.ca61bbd7.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.d2c34ddd.js",
+          "hash": "88f7647f68b9e59c",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/237.d2c34ddd.js"
+        }
+      ]
+    },
+    "240": {
+      "js": [
+        {
+          "file": "assets/js/2194de37.f5602e90.js",
+          "hash": "82788a2906d6da88",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/2194de37.f5602e90.js"
+        }
+      ]
+    },
+    "243": {
+      "js": [
+        {
+          "file": "assets/js/b5347ed2.1efc53f2.js",
+          "hash": "199d6e58617be3e5",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/b5347ed2.1efc53f2.js"
+        }
+      ]
+    },
+    "247": {
+      "js": [
+        {
+          "file": "assets/js/292e1fa2.67f09e8e.js",
+          "hash": "e0d9b52a70d064bf",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/292e1fa2.67f09e8e.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.25fdff8a.js",
+          "hash": "399b3b2b0334a0c1",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/runtime~main.25fdff8a.js"
+        }
+      ]
+    },
+    "362": {
+      "js": [
+        {
+          "file": "assets/js/7d90580d.9e16f698.js",
+          "hash": "728430f6321c63db",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/7d90580d.9e16f698.js"
+        }
+      ]
+    },
+    "363": {
+      "js": [
+        {
+          "file": "assets/js/ba7b405c.ccffd8ac.js",
+          "hash": "764065ddb90bcf76",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/ba7b405c.ccffd8ac.js"
+        }
+      ]
+    },
+    "374": {
+      "js": [
+        {
+          "file": "assets/js/e1cc05d4.788af597.js",
+          "hash": "1d418481e710e236",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/e1cc05d4.788af597.js"
+        }
+      ]
+    },
+    "379": {
+      "js": [
+        {
+          "file": "assets/js/921d32da.2e566cca.js",
+          "hash": "afe357611ee69e13",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/921d32da.2e566cca.js"
+        }
+      ]
+    },
+    "396": {
+      "js": [
+        {
+          "file": "assets/js/4f65d5a0.c653e49a.js",
+          "hash": "32c88f83f24eb6cf",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/4f65d5a0.c653e49a.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.3688c4ef.js",
+          "hash": "b8f1ff865a95a009",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/17896441.3688c4ef.js"
+        }
+      ]
+    },
+    "404": {
+      "js": [
+        {
+          "file": "assets/js/62865c5b.1a3211f0.js",
+          "hash": "06bf9415b7e0549c",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/62865c5b.1a3211f0.js"
+        }
+      ]
+    },
+    "423": {
+      "js": [
+        {
+          "file": "assets/js/7a4fffdf.ff1ac50e.js",
+          "hash": "82d205bbbe18f2a3",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/7a4fffdf.ff1ac50e.js"
+        }
+      ]
+    },
+    "432": {
+      "js": [
+        {
+          "file": "assets/js/51d83523.65b5309a.js",
+          "hash": "362bff908e4a7cc3",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/51d83523.65b5309a.js"
+        }
+      ]
+    },
+    "515": {
+      "js": [
+        {
+          "file": "assets/js/6c13f043.ac1c4d46.js",
+          "hash": "82a8cc390610163b",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/6c13f043.ac1c4d46.js"
+        }
+      ]
+    },
+    "578": {
+      "js": [
+        {
+          "file": "assets/js/ab65b7ae.2ba1f31a.js",
+          "hash": "fd22e9945c7c15bf",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/ab65b7ae.2ba1f31a.js"
+        }
+      ]
+    },
+    "581": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.7fe3e214.js",
+          "hash": "28e19e2e9bc30cb1",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/935f2afb.7fe3e214.js"
+        }
+      ]
+    },
+    "588": {
+      "js": [
+        {
+          "file": "assets/js/5375958e.116be4b3.js",
+          "hash": "3a1f3efb3a120721",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/5375958e.116be4b3.js"
+        }
+      ]
+    },
+    "601": {
+      "js": [
+        {
+          "file": "assets/js/4a90598f.e429dccf.js",
+          "hash": "f9dc99db93d7ddca",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/4a90598f.e429dccf.js"
+        }
+      ]
+    },
+    "632": {
+      "js": [
+        {
+          "file": "assets/js/71cc5815.fa29709a.js",
+          "hash": "51b9e76cfbc4fe14",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/71cc5815.fa29709a.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.df523f74.js",
+          "hash": "909aadecd9c4aa79",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/c4f5d8e4.df523f74.js"
+        }
+      ]
+    },
+    "637": {
+      "js": [
+        {
+          "file": "assets/js/08370c8c.06b433b0.js",
+          "hash": "9387aac811360c15",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/08370c8c.06b433b0.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.bfc416af.js",
+          "hash": "a4c0422effe6c071",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/5e95c892.bfc416af.js"
+        }
+      ]
+    },
+    "651": {
+      "js": [
+        {
+          "file": "assets/js/a67bf3e8.38afa24d.js",
+          "hash": "103ce36a46d41b9d",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/a67bf3e8.38afa24d.js"
+        }
+      ]
+    },
+    "702": {
+      "js": [
+        {
+          "file": "assets/js/8e8cc767.9a3085ca.js",
+          "hash": "b1c4541b81896e1a",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/8e8cc767.9a3085ca.js"
+        }
+      ]
+    },
+    "710": {
+      "js": [
+        {
+          "file": "assets/js/13414457.397288c3.js",
+          "hash": "bdd7def1ad4cd638",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/13414457.397288c3.js"
+        }
+      ]
+    },
+    "743": {
+      "js": [
+        {
+          "file": "assets/js/31a581be.cc16b044.js",
+          "hash": "abac072c911addb1",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/31a581be.cc16b044.js"
+        }
+      ]
+    },
+    "746": {
+      "js": [
+        {
+          "file": "assets/js/7155f7ae.0a2df1aa.js",
+          "hash": "48011fccf9e9c1cb",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/7155f7ae.0a2df1aa.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.586c99cf.js",
+          "hash": "cf02153e5ad8c1ee",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/main.586c99cf.js"
+        }
+      ]
+    },
+    "839": {
+      "js": [
+        {
+          "file": "assets/js/30afe25b.d872fc31.js",
+          "hash": "c3016e18b1f9e332",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/30afe25b.d872fc31.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.bf62ddcd.css",
+          "hash": "285db908456e0f2a",
+          "publicPath": "/physical-ai-curriculum-book/assets/css/styles.bf62ddcd.css"
+        }
+      ]
+    },
+    "870": {
+      "js": [
+        {
+          "file": "assets/js/6d97f8eb.3394ad04.js",
+          "hash": "c27e4b18b8b87a24",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/6d97f8eb.3394ad04.js"
+        }
+      ]
+    },
+    "877": {
+      "js": [
+        {
+          "file": "assets/js/33367f8d.7a8674cb.js",
+          "hash": "006eda19c042a0fa",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/33367f8d.7a8674cb.js"
+        }
+      ]
+    },
+    "915": {
+      "js": [
+        {
+          "file": "assets/js/0a3ff295.65873553.js",
+          "hash": "fe09fd86e5a8fdcd",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/0a3ff295.65873553.js"
+        }
+      ]
+    },
+    "929": {
+      "js": [
+        {
+          "file": "assets/js/69f79331.57b82c8c.js",
+          "hash": "d4d27375ae9fbe32",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/69f79331.57b82c8c.js"
+        }
+      ]
+    },
+    "948": {
+      "js": [
+        {
+          "file": "assets/js/04ce34ee.24c7c20f.js",
+          "hash": "265de7d6a828292a",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/04ce34ee.24c7c20f.js"
+        }
+      ]
+    },
+    "960": {
+      "js": [
+        {
+          "file": "assets/js/8511894a.4d41ae6b.js",
+          "hash": "00fd5ab091465562",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/8511894a.4d41ae6b.js"
+        }
+      ]
+    },
+    "977": {
+      "js": [
+        {
+          "file": "assets/js/fd49a5c2.05b2ee76.js",
+          "hash": "7b1362fb002e3898",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/fd49a5c2.05b2ee76.js"
+        }
+      ]
+    },
+    "983": {
+      "js": [
+        {
+          "file": "assets/js/8230ebc7.b178525b.js",
+          "hash": "25e0a5df5bbe51fa",
+          "publicPath": "/physical-ai-curriculum-book/assets/js/8230ebc7.b178525b.js"
+        }
+      ]
+    }
+  }
+}
