@@ -12,7 +12,7 @@ const config = {
   url: 'https://Anam-Noman.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it's typically '/<projectName>/'
-  baseUrl: '/physical-ai-curriculum-book/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   organizationName: 'Anam-Noman', // Your GitHub username
