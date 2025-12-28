@@ -5,18 +5,19 @@
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Physical AI & Humanoid Robotics Curriculum',
-  tagline: 'Bridging digital AI models with physical robotic bodies through simulation, perception, planning, and action',
+  tagline:
+    'Bridging digital AI models with physical robotic bodies through simulation, perception, planning, and action',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
-  url: 'https://Anam-Noman.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it's typically '/<projectName>/'
-  baseUrl: '/physical-ai-curriculum-book/',
+  // Production URL
+  url: 'https://anam-noman.github.io',
 
-  // GitHub pages deployment config.
-  organizationName: 'Anam-Noman', // Your GitHub username
-  projectName: 'physical-ai-curriculum-book', // Your repo name
+  // Base URL (MUST match repo name, case-sensitive)
+  baseUrl: '/Physical-ai-curriculum-book/',
+
+  // GitHub Pages deployment config
+  organizationName: 'Anam-Noman',
+  projectName: 'Physical-ai-curriculum-book',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -34,9 +35,9 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/Anam-Noman/physical-ai-curriculum-book/edit/main/',
+            'https://github.com/Anam-Noman/Physical-ai-curriculum-book/edit/main/',
         },
-        blog: false, // Disable blog functionality
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
